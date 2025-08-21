@@ -1,4 +1,4 @@
-![](logotype_lightbg_trans_padded_medium.png)
+![](../logotype_lightbg_trans_padded_medium.png)
 
 ### Got fugly links?
 
